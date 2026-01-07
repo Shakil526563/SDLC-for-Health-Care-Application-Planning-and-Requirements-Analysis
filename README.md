@@ -1,5 +1,10 @@
 Project: Healthca – A health care app for disease detection, health monitoring, and medical guidance.
 
+<img width="1123" height="644" alt="image" src="https://github.com/user-attachments/assets/5ef3707c-3eba-4962-8843-f076d6ee8c86" />
+
+
+<img width="966" height="628" alt="image" src="https://github.com/user-attachments/assets/02dfe6f9-57d7-4be5-9f23-63298386671a" />
+
 
 This startup project encompasses a comprehensive approach from defining intentions and addressing potential problems to detailed planning, analysis, and financial considerations. The Software Development Life Cycle (SDLC) is meticulously outlined, covering planning, analysis, design, and deployment.
 Key Elements:
